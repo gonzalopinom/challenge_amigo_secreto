@@ -19,4 +19,3 @@ amigo-secreto/
 ├── assets/
 │ └── banner.png
 └── README.md
-
